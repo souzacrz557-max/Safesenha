@@ -1,0 +1,2 @@
+# Safesenha
+Safena auto privado
